@@ -1,0 +1,33 @@
+how to execute python file from command prompt
+------------------------------------------------
+open command prompt
+python <<file full path>>
+ex:python D:\\pr\test.py
+
+how to pass command line arguments
+----------------------------------
+open command prompt
+python <<file full path>> <<arg1>> <<arg2>> <<arg3>>
+ex:python D:\\pr\test.py 10 20 30
+
+
+how to install a library
+------------------------
+pip install <<library name>>
+ex:pip install pandas
+
+how to create a virtual environment
+-----------------------------------
+python -m venv <<virtual environment name>>
+ex: python -m venv xyz
+
+how to activate a virtual environment
+-------------------------------------
+<<virtual environment name>>\Scripts\activate
+ex:xyz\Scripts\activate
+
+how  to exit from a virtual enviroment
+---------------------------------------
+
+
+
