@@ -1,0 +1,24 @@
+info:shell commands (or) bash commands
+
+
+change drive
+------------
+cd /F
+
+change directory
+----------------
+cd <<directory name>>
+ex:cd /F/xyz
+
+make directory
+--------------
+mkdir <<directory name>>
+ex:mkdir xxx
+
+current directory path
+-----------------------
+pwd
+
+list all directory and files
+----------------------------
+ls
