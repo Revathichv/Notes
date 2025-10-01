@@ -1,0 +1,24 @@
+info:commond prompt commands (or) power shell commands
+
+
+change drive
+------------
+d:
+
+change directory
+----------------
+cd<<directory name>>
+ex:cd xyz
+
+make directory
+--------------
+mkdir<<directory name>>
+ex:mkdir xxx
+
+current directory path
+-----------------------
+cd
+
+list all directory and files
+----------------------------
+dir

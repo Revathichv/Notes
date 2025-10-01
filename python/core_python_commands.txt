@@ -2,14 +2,15 @@ how to execute python file from command prompt
 ------------------------------------------------
 open command prompt
 python <<file full path>>
-ex:python D:\\pr\test.py
+ex1:python D:\\pr\test.py
+ex2:C:\Users\Charu\AppData\Local\Microsoft\WindowsApps\python.exe D:\\pr\test.py
 
 how to pass command line arguments
 ----------------------------------
 open command prompt
 python <<file full path>> <<arg1>> <<arg2>> <<arg3>>
-ex:python D:\\pr\test.py 10 20 30
-
+ex1:python D:\\pr\test.py 10 20 30
+ex2:C:\Users\Charu\AppData\Local\Microsoft\WindowsApps\python.exe D:\\pr\test.py 10 20 30
 
 how to install a library
 ------------------------
