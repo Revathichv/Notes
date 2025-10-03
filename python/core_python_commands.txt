@@ -29,6 +29,6 @@ ex:xyz\Scripts\activate
 
 how  to exit from a virtual enviroment
 ---------------------------------------
-
+deactivate
 
 
