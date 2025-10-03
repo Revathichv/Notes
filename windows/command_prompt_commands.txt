@@ -10,6 +10,10 @@ change directory
 cd<<directory name>>
 ex:cd xyz
 
+move back to one directory
+--------------------------
+cd ..
+
 make directory
 --------------
 mkdir<<directory name>>
